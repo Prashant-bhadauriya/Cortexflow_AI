@@ -1,13 +1,12 @@
 <div align="center">
   <br />
-      <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
+      <img src="/src/assets/banner.jpg" alt="Project Banner">
   <br />
 </div>
 
 ## <a name="introduction">🤖 Introduction</a>
 
 Cortexflow AI - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles.
-
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
